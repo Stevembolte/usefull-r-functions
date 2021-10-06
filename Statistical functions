@@ -1,8 +1,9 @@
-mean()
-abs()
-c()
+mean(x)
+abs(x)
+c(1:3)
+summary(x)
 
 # Create a histogram
-ggplot()
+ggplot(data = x)
 
 # SMB theme colors in Color_brewer
